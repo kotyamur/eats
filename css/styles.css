@@ -269,6 +269,7 @@ a {
     color: #fa4a0c;
 }
 
+
 .about-description {
     margin-bottom: 17px;
     font-family: var(--font-family);
@@ -310,7 +311,6 @@ a {
 /* order */
 
 .order {
-    /* max-width: 1440px; */
     padding-top: 130px;
     padding-bottom: 130px;
     background-image: url(../images/orderBg.jpg);
